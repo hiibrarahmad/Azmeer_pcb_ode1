@@ -1,0 +1,67 @@
+Added Component: Designator=Dht11(SAMTEC_TSW-103-17-S-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-17-S-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PUMP(SAMTEC_TSM-102-02-H-SV)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TSM-102-02-H-SV/Samtec/view-part/3511695/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-102-02-H-SV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TSM-102-02-H-SV/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TSM-102-02-H-SV/Samtec/view-part/3511695/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=rain sensor(SAMTEC_TSW-104-26-F-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-104-26-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Soil moisture(SAMTEC_TSW-103-17-S-S)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-103-17-S-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDht11_01 Pin=Dht11-01
+Added Pin To Net: NetName=NetDht11_01 Pin=LDR-01
+Added Pin To Net: NetName=NetDht11_01 Pin=PUMP-01
+Added Pin To Net: NetName=NetDht11_01 Pin=rain sensor-01
+Added Pin To Net: NetName=NetDht11_01 Pin=Soil moisture-01
+Added Pin To Net: NetName=NetDht11_01 Pin=U1-19
+Added Pin To Net: NetName=NetDht11_01 Pin=U2-2
+Added Net: Name=NetDht11_01
+Added Pin To Net: NetName=NetDht11_02 Pin=Dht11-02
+Added Pin To Net: NetName=NetDht11_02 Pin=U1-4
+Added Net: Name=NetDht11_02
+Added Pin To Net: NetName=NetDht11_03 Pin=Dht11-03
+Added Pin To Net: NetName=NetDht11_03 Pin=LDR-02
+Added Pin To Net: NetName=NetDht11_03 Pin=rain sensor-02
+Added Pin To Net: NetName=NetDht11_03 Pin=Soil moisture-02
+Added Pin To Net: NetName=NetDht11_03 Pin=U1-2
+Added Pin To Net: NetName=NetDht11_03 Pin=U2-3
+Added Net: Name=NetDht11_03
+Added Pin To Net: NetName=NetLDR_03 Pin=LDR-03
+Added Pin To Net: NetName=NetLDR_03 Pin=U1-7
+Added Net: Name=NetLDR_03
+Added Pin To Net: NetName=NetPUMP_02 Pin=PUMP-02
+Added Pin To Net: NetName=NetPUMP_02 Pin=U1-21
+Added Net: Name=NetPUMP_02
+Added Pin To Net: NetName=Netrain sensor_03 Pin=rain sensor-03
+Added Pin To Net: NetName=Netrain sensor_03 Pin=rain sensor-04
+Added Pin To Net: NetName=Netrain sensor_03 Pin=U1-5
+Added Net: Name=Netrain sensor_03
+Added Pin To Net: NetName=NetSoil moisture_03 Pin=Soil moisture-03
+Added Pin To Net: NetName=NetSoil moisture_03 Pin=U1-6
+Added Net: Name=NetSoil moisture_03
+Added Member To Class: ClassName=main Member=Component Dht11 TSW-103-17-S-S
+Added Member To Class: ClassName=main Member=Component PUMP TSM-102-02-H-SV
+Added Member To Class: ClassName=main Member=Component rain sensor TSW-104-26-F-S
+Added Member To Class: ClassName=main Member=Component Soil moisture TSW-103-17-S-S
+Added Member To Class: ClassName=main Member=Component U1 ABX00028
