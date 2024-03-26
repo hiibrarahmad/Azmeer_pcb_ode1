@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Removed Pin From Net: NetName=NetDht11_01 Pin=PUMP-01
 Removed Member From Class: ClassName=main Member=PUMP
 Added Component: Designator=J1(SAMTEC_HMTSW-102-XX-X-S-XXX)
@@ -12,3 +13,19 @@ Added Pin To Net: NetName=NetJ1_02 Pin=J1-02
 Added Pin To Net: NetName=NetJ1_02 Pin=U1-21
 Added Net: Name=NetJ1_02
 Added Member To Class: ClassName=main Member=Component J1 HMTSW-102-XX-X-S-XXX
+=======
+Removed Pin From Net: NetName=NetDht11_01 Pin=PUMP-01
+Removed Member From Class: ClassName=main Member=PUMP
+Added Component: Designator=J1(SAMTEC_HMTSW-102-XX-X-S-XXX)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HMTSW-102-XX-X-S-XXX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDht11_01 Pin=J1-01
+Added Pin To Net: NetName=NetJ1_02 Pin=J1-02
+Added Pin To Net: NetName=NetJ1_02 Pin=U1-21
+Added Net: Name=NetJ1_02
+Added Member To Class: ClassName=main Member=Component J1 HMTSW-102-XX-X-S-XXX
+>>>>>>> d58462abab6f18f6b01d44a8ebd9e71839aa4174

@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Change Component Designator: OldDesignator=U4 NewDesignator=U?
 Added Member To Class: ClassName=main Member=Component U? LORA-SX1278-SYMBOL
+=======
+Change Component Designator: OldDesignator=U4 NewDesignator=U?
+Added Member To Class: ClassName=main Member=Component U? LORA-SX1278-SYMBOL
+>>>>>>> d58462abab6f18f6b01d44a8ebd9e71839aa4174
