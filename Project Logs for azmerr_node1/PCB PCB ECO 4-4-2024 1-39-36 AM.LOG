@@ -1,0 +1,9 @@
+Add Component: Footprint Not Found SAMTEC_HMTSW-102-XX-X-S-XXX
+Add Component: Footprint Not Found SAMTEC_HMTSW-102-XX-X-S-XXX
+Add Pin To Net: Unknown Pin: Pin J?-02
+Add Pin To Net: Unknown Pin: Pin J?-02
+Added Pin To Net: NetName=NetJ?_01 Pin=U1-26
+Added Net: Name=NetJ?_01
+Add Net: Net with name "NetJ?_01" already exists
+Add Class Member: Failed to add class member : Component J? HMTSW-102-XX-X-S-XXX
+Add Class Member: Failed to add class member : Component J? HMTSW-102-XX-X-S-XXX

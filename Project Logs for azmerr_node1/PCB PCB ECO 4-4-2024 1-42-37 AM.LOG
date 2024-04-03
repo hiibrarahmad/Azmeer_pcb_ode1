@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=J? NewDesignator=J4
+Change Net Name : Old Net Name=NetJ?_01 New Net Name=NetJ3_01
+Added Pin To Net: NetName=NetJ4_01 Pin=J4-01
+Added Pin To Net: NetName=NetJ4_01 Pin=U1-15
+Added Net: Name=NetJ4_01
+Added Member To Class: ClassName=main Member=Component J4 HMTSW-102-XX-X-S-XXX

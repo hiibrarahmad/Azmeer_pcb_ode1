@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetDht11_01 Pin=J2-01
+Removed Pin From Net: NetName=NetDht11_01 Pin=J3-01
+Change Component Designator: OldDesignator=J2 NewDesignator=J?
+Change Component Designator: OldDesignator=J3 NewDesignator=J?
+Added Pin To Net: NetName=NetJ?_01 Pin=J?-01
+Add Net: Net with name "NetJ?_01" already exists
+Added Member To Class: ClassName=main Member=Component J? HMTSW-102-XX-X-S-XXX
+Added Member To Class: ClassName=main Member=Component J? HMTSW-102-XX-X-S-XXX
