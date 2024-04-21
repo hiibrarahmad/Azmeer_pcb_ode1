@@ -1,0 +1,5 @@
+Change Component Comment : Designator=J1 Old Comment=HMTSW-102-XX-X-S-XXX New Comment=led
+Change Component Designator: OldDesignator=J3 NewDesignator=motor
+Change Component Designator: OldDesignator=J4 NewDesignator=input power
+Change Net Name : Old Net Name=NetJ3_01 New Net Name=Netmotor_01
+Change Net Name : Old Net Name=NetJ4_01 New Net Name=Netinput power_01

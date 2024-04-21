@@ -1,9 +1,275 @@
 Protel Design System Design Rule Check
-PCB File : D:\pcb project\Azmeer_pcb_ode1\PCB.PcbDoc
-Date     : 4/4/2024
-Time     : 1:50:11 AM
+PCB File : D:\pcb project\RMT\Azmeer_pcb_ode1\PCB.PcbDoc
+Date     : 4/21/2024
+Time     : 5:27:40 PM
 
 Processing Rule : Clearance Constraint (Gap=15.748mil) (All),(All)
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad Dht11-02(1505mil,2775mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad Dht11-03(1405mil,2775mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad J1-02(3810mil,1995mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad J1-02(3810mil,1995mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad J3-01(2145mil,1470mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad J4-01(3075mil,3270mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad LDR-02(3810mil,3130mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad LDR-03(3810mil,3230mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad LDR-03(3810mil,3230mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad rain sensor-02(3810mil,1425mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad rain sensor-03(3810mil,1525mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad rain sensor-04(3810mil,1625mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad Soil moisture-02(3825mil,2570mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad Soil moisture-03(3825mil,2470mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Hole of Pad U1-(2405mil,1390mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Hole of Pad U1-(2405mil,2990mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Hole of Pad U1-(3005mil,1390mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Hole of Pad U1-(3005mil,2990mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-1(3005mil,1490mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-10(3005mil,2390mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-11(3005mil,2490mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-12(3005mil,2590mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-13(3005mil,2690mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-15(3005mil,2890mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-16(2405mil,2890mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-17(2405mil,2790mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-18(2405mil,2690mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-2(3005mil,1590mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-20(2405mil,2490mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-21(2405mil,2390mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-22(2405mil,2290mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-23(2405mil,2190mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-24(2405mil,2090mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-25(2405mil,1990mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-26(2405mil,1890mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-27(2405mil,1790mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-28(2405mil,1690mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-29(2405mil,1590mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-3(3005mil,1690mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-30(2405mil,1490mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-4(3005mil,1790mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-5(3005mil,1890mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-6(3005mil,1990mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-7(3005mil,2090mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-8(3005mil,2190mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U1-9(3005mil,2290mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-1(1195mil,1295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-10(1795mil,2295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-11(1695mil,2295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-12(1595mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-12(1595mil,2295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-13(1495mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-13(1495mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-14(1395mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-14(1395mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-14(1395mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-15(1295mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-15(1295mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-15(1295mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-16(1195mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-16(1195mil,2295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-3(1395mil,1295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-3(1395mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-4(1495mil,1295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-4(1495mil,1295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-4(1495mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-5(1595mil,1295mil) on Multi-Layer And Polygon Region (0 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-5(1595mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-6(1695mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-7(1795mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-8(1895mil,1295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Pad U2-9(1895mil,2295mil) on Multi-Layer And Polygon Region (22 hole(s)) Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1133mil,1262mil)(1133mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1133mil,1262mil)(1133mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1133mil,1262mil)(1180mil,1215mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1133mil,2400mil)(1187.055mil,2454.055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1156.416mil,1175mil)(1603.804mil,1175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1180mil,1215mil)(1460mil,1215mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1180mil,1215mil)(1460mil,1215mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1187.055mil,2454.055mil)(2230.945mil,2454.055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1295mil,2295mil)(1295mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1295mil,2295mil)(1295mil,2400mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1295mil,2400mil)(1329.37mil,2434.37mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1295mil,2400mil)(1329.37mil,2434.37mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1329.37mil,2434.37mil)(2184.605mil,2434.37mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,1295mil)(1395mil,1385mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,1385mil)(1433mil,1423mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,2295mil)(1395mil,2370mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,2295mil)(1395mil,2370mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,2370mil)(1439.685mil,2414.685mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1395mil,2370mil)(1439.685mil,2414.685mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1433mil,1423mil)(1968mil,1423mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1439.685mil,2414.685mil)(2123.396mil,2414.685mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1460mil,1215mil)(1489.832mil,1244.832mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1460mil,1215mil)(1489.832mil,1244.832mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1489.832mil,1244.832mil)(1489.832mil,1289.832mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1495mil,2295mil)(1595mil,2395mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1595mil,1836mil)(1595mil,2295mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1595mil,1836mil)(2262.378mil,1168.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.748mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1603.804mil,1175mil)(1610.723mil,1181.919mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.528mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1607.806mil,1257.533mil)(1607.806mil,1282.194mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.528mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1607.806mil,1257.533mil)(1610.723mil,1254.617mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1610.723mil,1181.919mil)(1610.723mil,1254.617mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (1968mil,1423mil)(2246mil,1145mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (2246mil,1145mil)(3973.081mil,1145mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3495mil,1733.217mil)(3495mil,2055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3495mil,2055mil)(3614.331mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3500mil,1728.217mil)(3846.519mil,1728.217mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3614.331mil,2174.331mil)(3990mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1928.286mil)(3755.366mil,1952.975mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1928.286mil)(3755.366mil,1952.975mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1928.286mil)(3912.441mil,1771.211mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1928.286mil)(3912.441mil,1771.211mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.812mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1952.975mil)(3758.228mil,2134.087mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1952.975mil)(3758.228mil,2134.087mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3755.366mil,1952.975mil)(3758.228mil,2134.087mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.812mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3758.228mil,2134.087mil)(3770.913mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3758.228mil,2134.087mil)(3770.913mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3761mil,3258mil)(3800mil,3297mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3770.913mil,2146.772mil)(3875.746mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.332mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3770.913mil,2146.772mil)(3875.746mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3800mil,3297mil)(3850mil,3297mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3810mil,1995mil)(3865mil,1995mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3810mil,1995mil)(3865mil,1995mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3810mil,3230mil)(3887mil,3153mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3846.519mil,1728.217mil)(3885mil,1689.736mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3850mil,3297mil)(3915mil,3232mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3865mil,1995mil)(3940mil,1920mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3865mil,1995mil)(3940mil,1920mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3872.028mil,1168.622mil)(3967.559mil,1264.152mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3875.746mil,2146.772mil)(3875.746mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3875.746mil,2146.772mil)(3930.738mil,2146.772mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.42mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3885mil,1431.919mil)(3885mil,1689.736mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.01mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3887mil,2792mil)(3887mil,3153mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3912.441mil,1701.269mil)(3912.441mil,1771.211mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.332mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3912.441mil,1701.269mil)(3912.441mil,1771.211mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.332mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3912.441mil,1701.269mil)(3912.559mil,1701.151mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.494mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3912.559mil,1420.504mil)(3912.559mil,1701.151mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3915mil,2570mil)(3915mil,3232mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3930.738mil,2146.772mil)(3967.559mil,2109.951mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3940mil,1712.685mil)(3940mil,1920mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.332mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3940mil,1712.685mil)(3940mil,1920mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.332mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3967.559mil,1264.152mil)(3967.559mil,1397.555mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3967.559mil,1724.1mil)(3967.559mil,2109.951mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3973.081mil,1145mil)(3995.118mil,1167.037mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (0 hole(s)) Bottom Layer And Track (3995.118mil,1167.037mil)(3995.118mil,1379.221mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1093.24mil,1238.176mil)(1093.24mil,2433.24mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1093.24mil,1238.176mil)(1156.416mil,1175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1093.24mil,2433.24mil)(1135mil,2475mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1135mil,2475mil)(2376.96mil,2475mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1156.416mil,1175mil)(1603.804mil,1175mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1187.055mil,2454.055mil)(2230.945mil,2454.055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1329.37mil,2434.37mil)(2184.605mil,2434.37mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1395mil,1295mil)(1395mil,1385mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1395mil,1385mil)(1433mil,1423mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1405mil,2775mil)(2020mil,3390mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1433mil,1423mil)(1968mil,1423mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1495mil,2295mil)(1595mil,2395mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1505mil,2775mil)(1801.714mil,3071.714mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1595mil,1836mil)(1595mil,2295mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1595mil,1836mil)(2262.378mil,1168.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1595mil,2395mil)(2108.515mil,2395mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1603.804mil,1175mil)(1610.723mil,1181.919mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.827mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1607.806mil,1257.533mil)(1607.806mil,1282.194mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.924mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1607.806mil,1257.533mil)(1610.723mil,1254.617mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1610.723mil,1181.919mil)(1610.723mil,1254.617mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1801.714mil,3071.714mil)(2486.714mil,3071.714mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (1968mil,1423mil)(2246mil,1145mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2020mil,3390mil)(3550mil,3390mil) on Bottom Layer 
+   Violation between Clearance Constraint: (14.748mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2108.515mil,2395mil)(2115.434mil,2388.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2115.434mil,1779.566mil)(2115.434mil,2388.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2115.434mil,1779.566mil)(2405mil,1490mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2123.396mil,2414.685mil)(2160mil,2378.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2145mil,1375mil)(2145mil,1470mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2145mil,1375mil)(2280mil,1240mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2160mil,1835mil)(2160mil,2378.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2160mil,1835mil)(2405mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2184.605mil,2434.37mil)(2207.894mil,2411.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2207.894mil,1887.106mil)(2207.894mil,2411.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2207.894mil,1887.106mil)(2405mil,1690mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2230.945mil,2454.055mil)(2250mil,2435mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2246mil,1145mil)(3973.081mil,1145mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2250mil,1945mil)(2250mil,2435mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2250mil,1945mil)(2405mil,1790mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2262.378mil,1168.622mil)(3872.028mil,1168.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2280mil,1240mil)(2498.081mil,1240mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.907mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2376.96mil,2475mil)(2391.96mil,2490mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2405mil,1890mil)(2475mil,1890mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2405mil,2390mil)(2530mil,2265mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2475mil,1890mil)(2479.975mil,1885.025mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2479.975mil,1885.025mil)(2505mil,1860mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2486.714mil,3071.714mil)(2860mil,2698.428mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2498.081mil,1240mil)(2505mil,1246.919mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2505mil,1246.919mil)(2505mil,1860mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2530mil,1873.974mil)(2530mil,2265mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2530mil,1873.974mil)(2532.559mil,1871.415mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2532.559mil,1770.441mil)(2532.559mil,1871.415mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2532.559mil,1770.441mil)(3110.756mil,1192.244mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2800mil,2896.919mil)(2800mil,3215mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2800mil,2896.919mil)(2806.919mil,2890mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2800mil,3215mil)(2855mil,3270mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2806.919mil,2890mil)(3005mil,2890mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2855mil,3270mil)(3075mil,3270mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2860mil,1830mil)(2860mil,2698.428mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2860mil,1830mil)(2900mil,1790mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (2900mil,1790mil)(3005mil,1790mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3005mil,1490mil)(3242.161mil,1490mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3005mil,1590mil)(3401.8mil,1590mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3005mil,1890mil)(3210mil,1890mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3005mil,1990mil)(3195mil,1990mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3005mil,2090mil)(3185mil,2090mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3110.756mil,1192.244mil)(3856.218mil,1192.244mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3185mil,2090mil)(3776.378mil,2681.378mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3195mil,1990mil)(3675mil,2470mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3210mil,1890mil)(3475mil,1625mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3242.161mil,1490mil)(3516.295mil,1215.866mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3401.8mil,1590mil)(3566.8mil,1425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3475mil,1625mil)(3540mil,1625mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3495mil,1733.217mil)(3495mil,2055mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3495mil,1733.217mil)(3500mil,1728.217mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3495mil,2055mil)(3614.331mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3500mil,1728.217mil)(3846.519mil,1728.217mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3516.295mil,1215.866mil)(3840.866mil,1215.866mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3540mil,1535mil)(3540mil,1625mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3540mil,1535mil)(3545.025mil,1529.975mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3540mil,1625mil)(3810mil,1625mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3545.025mil,1529.975mil)(3550mil,1525mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3550mil,1525mil)(3810mil,1525mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3550mil,3390mil)(3761mil,3179mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3566.8mil,1425mil)(3810mil,1425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3614.331mil,2174.331mil)(3990mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3675mil,2470mil)(3825mil,2470mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3761mil,3179mil)(3761mil,3258mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3761mil,3179mil)(3810mil,3130mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3761mil,3258mil)(3800mil,3297mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3776.378mil,2681.378mil)(3776.378mil,2705.938mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3776.378mil,2705.938mil)(3789.062mil,2718.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3789.062mil,2718.622mil)(3813.622mil,2718.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3800mil,3297mil)(3850mil,3297mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3810mil,1425mil)(3878.081mil,1425mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3810mil,3230mil)(3887mil,3153mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3813.622mil,2718.622mil)(3887mil,2792mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3825mil,2570mil)(3915mil,2570mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3840.866mil,1215.866mil)(3912.441mil,1287.441mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3846.519mil,1728.217mil)(3885mil,1689.736mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3850mil,3297mil)(3915mil,3232mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3878.081mil,1425mil)(3885mil,1431.919mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3885mil,1431.919mil)(3885mil,1689.736mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3887mil,2792mil)(3887mil,3153mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3912.441mil,1287.441mil)(3912.441mil,1420.386mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.348mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3912.441mil,1420.386mil)(3912.559mil,1420.504mil) on Bottom Layer 
+   Violation between Clearance Constraint: (15.511mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3912.559mil,1420.504mil)(3912.559mil,1701.151mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3915mil,2570mil)(3915mil,2570mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3915mil,2570mil)(3915mil,3232mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3915mil,2570mil)(4008.081mil,2570mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3973.081mil,1145mil)(3995.118mil,1167.037mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.158mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3990mil,2126.484mil)(3990mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3990mil,2126.484mil)(3995.118mil,2121.366mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3990mil,2174.331mil)(4015mil,2174.331mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3995.118mil,1167.037mil)(3995.118mil,1379.221mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.05mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3995.118mil,1379.221mil)(3995.236mil,1379.339mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3995.118mil,1735.515mil)(3995.118mil,2121.366mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.05mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3995.118mil,1735.515mil)(3995.236mil,1735.397mil) on Bottom Layer 
+   Violation between Clearance Constraint: (12.05mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (3995.236mil,1379.339mil)(3995.236mil,1735.397mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (4008.081mil,2570mil)(4015mil,2563.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Polygon Region (22 hole(s)) Bottom Layer And Track (4015mil,2174.331mil)(4015mil,2563.081mil) on Bottom Layer 
    Violation between Clearance Constraint: (9.134mil < 15.748mil) Between Track (1133mil,2400mil)(1187.055mil,2454.055mil) on Bottom Layer And Track (1135mil,2475mil)(2376.96mil,2475mil) on Bottom Layer 
    Violation between Clearance Constraint: (9.134mil < 15.748mil) Between Track (1135mil,2475mil)(2376.96mil,2475mil) on Bottom Layer And Track (1187.055mil,2454.055mil)(2230.945mil,2454.055mil) on Bottom Layer 
    Violation between Clearance Constraint: (9.134mil < 15.748mil) Between Track (1135mil,2475mil)(2376.96mil,2475mil) on Bottom Layer And Track (2230.945mil,2454.055mil)(2250mil,2435mil) on Bottom Layer 
@@ -17,10 +283,19 @@ Processing Rule : Clearance Constraint (Gap=15.748mil) (All),(All)
    Violation between Clearance Constraint: (7.874mil < 15.748mil) Between Track (1439.685mil,2414.685mil)(2123.396mil,2414.685mil) on Bottom Layer And Track (1595mil,2395mil)(2108.515mil,2395mil) on Bottom Layer 
    Violation between Clearance Constraint: (7.874mil < 15.748mil) Between Track (1439.685mil,2414.685mil)(2123.396mil,2414.685mil) on Bottom Layer And Track (2108.515mil,2395mil)(2115.434mil,2388.081mil) on Bottom Layer 
    Violation between Clearance Constraint: (14.793mil < 15.748mil) Between Track (1439.685mil,2414.685mil)(2123.396mil,2414.685mil) on Bottom Layer And Track (2115.434mil,1779.566mil)(2115.434mil,2388.081mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (1595mil,1836mil)(2262.378mil,1168.622mil) on Bottom Layer And Track (2246mil,1145mil)(3973.081mil,1145mil) on Bottom Layer 
    Violation between Clearance Constraint: (12.631mil < 15.748mil) Between Track (1595mil,2395mil)(2108.515mil,2395mil) on Bottom Layer And Track (2123.396mil,2414.685mil)(2160mil,2378.081mil) on Bottom Layer 
    Violation between Clearance Constraint: (12.631mil < 15.748mil) Between Track (2108.515mil,2395mil)(2115.434mil,2388.081mil) on Bottom Layer And Track (2123.396mil,2414.685mil)(2160mil,2378.081mil) on Bottom Layer 
    Violation between Clearance Constraint: (12.631mil < 15.748mil) Between Track (2115.434mil,1779.566mil)(2115.434mil,2388.081mil) on Bottom Layer And Track (2123.396mil,2414.685mil)(2160mil,2378.081mil) on Bottom Layer 
-Rule Violations :16
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (2246mil,1145mil)(3973.081mil,1145mil) on Bottom Layer And Track (2262.378mil,1168.622mil)(3872.028mil,1168.622mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (2246mil,1145mil)(3973.081mil,1145mil) on Bottom Layer And Track (3872.028mil,1168.622mil)(3967.559mil,1264.152mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (2262.378mil,1168.622mil)(3872.028mil,1168.622mil) on Bottom Layer And Track (2532.559mil,1770.441mil)(3110.756mil,1192.244mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (2262.378mil,1168.622mil)(3872.028mil,1168.622mil) on Bottom Layer And Track (3110.756mil,1192.244mil)(3856.218mil,1192.244mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (2262.378mil,1168.622mil)(3872.028mil,1168.622mil) on Bottom Layer And Track (3856.218mil,1192.244mil)(3940mil,1276.026mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (3110.756mil,1192.244mil)(3856.218mil,1192.244mil) on Bottom Layer And Track (3242.161mil,1490mil)(3516.295mil,1215.866mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (3110.756mil,1192.244mil)(3856.218mil,1192.244mil) on Bottom Layer And Track (3516.295mil,1215.866mil)(3840.866mil,1215.866mil) on Bottom Layer 
+   Violation between Clearance Constraint: (11.811mil < 15.748mil) Between Track (3110.756mil,1192.244mil)(3856.218mil,1192.244mil) on Bottom Layer And Track (3840.866mil,1215.866mil)(3912.441mil,1287.441mil) on Bottom Layer 
+Rule Violations :291
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -75,6 +350,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 32
+Violations Detected : 307
 Waived Violations : 0
 Time Elapsed        : 00:00:01
