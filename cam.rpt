@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: F:\PROJECTS\Azmeer_pcb_ode1\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0354		15
+ 2 		0.0402		30
+ 3 		0.1181		2
+ 4 		0.1181		4
